@@ -310,6 +310,7 @@ dependencies = [
 name = "rocker"
 version = "0.1.0"
 dependencies = [
+ "crossterm",
  "http",
  "ratatui",
 ]
